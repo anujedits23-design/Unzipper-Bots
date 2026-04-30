@@ -2,7 +2,7 @@
     "this_lang": "es",
 
     "start": "Hola **{}**, Soy **Ak Unzipper Bot** 😇!\n\n`Un Bot de fuente abierta que puede extraer archivos como: zip, rar, tar etc.`\n\n**Hecho con ❤️ por @anujedits76**",
-    "about": "**Acerca de Ak Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** (https://t.me/anujedits76)\n✘ **Hecho con ❤️ por @anujedits76**",
+    "about": "**Acerca de Ak Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** [Anuj Kumar] (https://t.me/anujedits76)\n✘ **Hecho con ❤️ por @anujedits76**",
     
     "processing": "`Procesando ⚙️...`",
     "refreshing": "`Refrescando ⏳...`",
