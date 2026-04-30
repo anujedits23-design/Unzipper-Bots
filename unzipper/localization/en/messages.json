@@ -1,9 +1,9 @@
 {
-    "this_lang": "en",
+  "this_lang": "en",
 
-     start = "Hi {}, I'm Ak Unzipper Bot 😇!\n\n📂 Yᴏᴜʀ ᴜʟᴛɪᴍᴀᴛᴇ Aʀᴄʜɪᴠᴇ Exᴛʀᴀᴄᴛᴏʀ Bᴏᴛ!\n\n🚀 Fᴇᴀᴛᴜʀᴇꜱ:\n• Iɴꜱᴛᴀɴᴛ ZIP, RAR, 7Z, TAR ᴇxᴛʀᴀᴄᴛɪᴏɴ\n• Fᴀꜱᴛ & Sᴇᴄᴜʀᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ\n• Dɪʀᴇᴄᴛ URL Sᴜᴘᴘᴏʀᴛ\n• Pᴀꜱꜱᴡᴏʀᴅ Pʀᴏᴛᴇᴄᴛᴇᴅ Aʀᴄʜɪᴠᴇꜱ\n\n⚠️ 18+ ᴄᴏɴᴛᴇɴᴛ ɪꜱ ꜱᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ! A ꜱɪɴɢʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.\n\n📤 Jᴜꜱᴛ ꜱᴇɴᴅ ᴀɴʏ ᴀʀᴄʜɪᴠᴇ ꜰɪʟᴇ ᴛᴏ ꜱᴛᴀʀᴛ!\n\nMade with ❤️ by @Anujedits76"
+  "start": "Hi {}, I'm Ak Unzipper Bot 😇!\n\n📂 Yᴏᴜʀ ᴜʟᴛɪᴍᴀᴛᴇ Aʀᴄʜɪᴠᴇ Exᴛʀᴀᴄᴛᴏʀ Bᴏᴛ!\n\n🚀 Fᴇᴀᴛᴜʀᴇꜱ:\n• Iɴꜱᴛᴀɴᴛ ZIP, RAR, 7Z, TAR ᴇxᴛʀᴀᴄᴛɪᴏɴ\n• Fᴀꜱᴛ & Sᴇᴄᴜʀᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ\n• Dɪʀᴇᴄᴛ URL Sᴜᴘᴘᴏʀᴛ\n• Pᴀꜱꜱᴡᴏʀᴅ Pʀᴏᴛᴇᴄᴛᴇᴅ Aʀᴄʜɪᴠᴇꜱ\n\n⚠️ 18+ ᴄᴏɴᴛᴇɴᴛ ɪꜱ ꜱᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ! A ꜱɪɴɢʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.\n\n📤 Jᴜꜱᴛ ꜱᴇɴᴅ ᴀɴʏ ᴀʀᴄʜɪᴠᴇ ꜰɪʟᴇ ᴛᴏ ꜱᴛᴀʀᴛ!\n\nMade with ❤️ by @Anujedits76",
 
-     about = "About Ak Unzipper Bot,\n\n✘ Version: {}\n✘ Language: Python\n✘ Framework: Pyrogram\n✘ Developer: Anuj Kumar\n✘ Made with ❤️ by @anujedits76"
+  "about": "About Ak Unzipper Bot,\n\n✘ Version: {}\n✘ Language: Python\n✘ Framework: Pyrogram\n✘ Developer: Anuj Kumar\n✘ Made with ❤️ by @anujedits76"
     
     "processing": "`Processing ⚙️...`",
     "refreshing": "`Refreshing ⏳...`",
