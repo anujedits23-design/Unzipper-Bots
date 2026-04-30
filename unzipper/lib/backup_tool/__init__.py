@@ -40,7 +40,7 @@ class CloudBackup:
         links = await gf.upload_folder(self.ext_dir, gf_id)
         return links[0]["downloadPage"]
 
-    async def _create_gofile_folder(self, client: Async_Gofile):
+    async def _create_gofile_folder(self, client: Gofile):
         rtfid = (await client.get_account())["rootFolder"]
         cf = (await client.create_folder(rtfid, "Backup of {} in {}".format(self.id, strftime("%b %d, %Y %l:%M%p"))))["id"]
         await client.set_option(cf, "public", "true")
