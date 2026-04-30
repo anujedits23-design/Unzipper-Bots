@@ -1,1 +1,23 @@
 .dev/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pythonlibs/
+.pytest_cache/
+.venv/
+venv/
+env/
+*.egg-info/
+build/
+dist/
+# Pyrogram session files
+*.session
+*.session-journal
+# Bot working directory (downloads)
+unzipper/Anujedits76/
+Anujedits76/
+# Logs
+*.log
