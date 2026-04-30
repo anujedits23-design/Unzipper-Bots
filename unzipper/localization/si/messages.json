@@ -1,8 +1,8 @@
 {
     "this_lang": "si",
 
-    "start": "හායි **{}**, මම **Nexa Unzipper Bot** 😇!\n\n`මම විවෘත මූලාශයක් සහිත zip, rar, tar වැනි ෆයිල්ස් extract කරන්න පුලුවන් බොට් කෙනෙක්`\n\n**Made with ❤️ by @NexaBotsUpdates**",
-    "about": "**Nexa Unzipper Bot ගැන,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Source Code:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)\n\n\n**Made with ❤️ by @NexaBotsUpdates**",
+    "start": "හායි **{}**, මම **Ak Unzipper Bot** 😇!\n\n`මම විවෘත මූලාශයක් සහිත zip, rar, tar වැනි ෆයිල්ස් extract කරන්න පුලුවන් බොට් කෙනෙක්`\n\n**Made with ❤️ by @anujedits76**",
+    "about": "**Ak Unzipper Bot ගැන,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:**(https://t.me/anujedits76)\n✘ \n\n**Made with ❤️ by @anujedits76**",
     
     "processing": "`සකසමින් ⚙️...`",
     "refreshing": "`Refresh කරමින් ⏳...`",
@@ -19,16 +19,16 @@
     
     "ok_backup": "**Backup කිරීම සාර්ථකයි ✅!** \n\n**Link එක 🔗:** {}",
     "ok_download": "**Download කිරීම සාර්ථකයි ✅!**\n\n**📂 File name:** `{}`\n**⬇️ Downloaded in:** `{}`",
-    "ok_extract": "**Extract කිරීම සාර්ථකයි ✅!**\n\n**🕐 Extracted in:** `{}`\n\n\n**Made with ❤️ by @NexaBotsUpdates**",
+    "ok_extract": "**Extract කිරීම සාර්ථකයි ✅!**\n\n**🕐 Extracted in:** `{}`\n\n\n**Made with ❤️ by @anujedits76**",
     "ok_upload": "**Upload කිරීම සාර්ථකයි ✅!**\n\n**📂 File name:** `{}`\n**⬆️ Uploaded in:** `{}`",
-    "ok_upload_basic": "**Upload කිරීම සාර්ථකයි ✅!** \n\n **Join @NexaBotsUpdates ❤️**",
+    "ok_upload_basic": "**Upload කිරීම සාර්ථකයි ✅!** \n\n **Join @anujedits76 ❤️**",
     "ok_saving_thumb": "**Thumbnail එක සේව් කිරීම සාර්ථකයි ✅!**",
     "ok_deleting_thumb": "**Thumbnail එක ඉවත් කිරීම සාර්ථකයි ✅!**",
     "ok_ban": "**එම පරිශීලකයාව තහනම් කිරීම සාර්ථකයි ✅!** \n\n**පරිශීලක ID:** `{}`",
     "ok_unban": "**එම පරිශීලකයාගේ තහනම ඉවත් කිරීම සාර්ථකයි ✅!** \n\n**පරිශීලක ID:** `{}`",
     "ok_wont_delete": "**හොඳයි, මම ඔයාගෙ ෆයිල්ස් සර්වර් එකෙන් ඉවත් කරන්නෙ නෑ 😂!**",
     
-    "failed_main": "**දෝෂයක් සිදු වුණා 😕!**\n\n**දෝෂය:** {}\n\n\n**කරුණාකර මෙය @Nexa_bots හි වාර්තා කරන්න**",
+    "failed_main": "**දෝෂයක් සිදු වුණා 😕!**\n\n**දෝෂය:** {}\n\n\n**කරුණාකර මෙය @anujedits76 හි වාර්තා කරන්න**",
     "failed_extract": "**Extract කිරීම අසාර්ථක විය 😕!**\n\n**මොනාද කරන්න පුලුවන්?**\n\n - `කරුණාකර archive එක corrupt නොවී තිබෙන බවට තහවුරු කරගන්න`\n - `ඔබ නිවැරදි මාදිලිය තෝරා ගත් බව කරුණාකර තහවුරු කර ගන්න`\n - `සමහර විට මෙම archive ආකෘතිය සහාය නොදැක් වීමට පුලුවන 😔`\n\n**කරුණාකර මෙය @Nexa_bots හි වාර්තා කරන්න**",
     
     "no_thumb": "Thumbnail එකක් හමු නොවිණි. කරුණාකර `/set_thumb` command එක භාවිතයෙන් thumbnail එකක් සේව් කරන්න!",
