@@ -2,7 +2,7 @@
     "this_lang": "en",
 
     "start": "Hi **{}**, I'm **Ak Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Made with ❤️ by @anujedits76**",
-    "about": "**About Ak Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:**(https://t.me/anujedits76)\n✘ **Made with ❤️ by @NexaBotsUpdates**",
+    "about": "**About Ak Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:**(https://t.me/anujedits76)\n✘ **Made with ❤️ by @anujedits76**",
     
     "processing": "`Processing ⚙️...`",
     "refreshing": "`Refreshing ⏳...`",
@@ -21,7 +21,7 @@
     "ok_download": "**Successfully downloaded ✅!**\n\n**📂 File name:** `{}`\n**⬇️ Downloaded in:** `{}`",
     "ok_extract": "**Successfully extracted ✅!**\n\n**🕐 Extracted in:** `{}`\n\n\n**Made with ❤️ by @anujedits76**",
     "ok_upload": "**Successfully uploaded ✅!**\n\n**📂 File name:** `{}`\n**⬆️ Uploaded in:** `{}`",
-    "ok_upload_basic": "**Successfully uploaded ✅!** \n\n **Join @NexaBotsUpdates ❤️**",
+    "ok_upload_basic": "**Successfully uploaded ✅!** \n\n **Join @anujedits76 ❤️**",
     "ok_saving_thumb": "**Successfully saved the thumbnail ✅!**",
     "ok_deleting_thumb": "**Successfully deleted the thumbnail ✅!**",
     "ok_ban": "**Successfully banned that user ✅!** \n\n**User ID:** `{}`",
