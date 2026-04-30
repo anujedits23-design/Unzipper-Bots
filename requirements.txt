@@ -4,7 +4,6 @@ pyromod==1.5
 motor
 dnspython
 psutil
-pykeyboard
 aiohttp
 aiofiles
 flask
