@@ -14,6 +14,8 @@ import logging
 from pyrogram import idle
 from os import makedirs, path
 from config import Config
+from server import keep_alive
+from pyrogram import Client
 
 
 if __name__ == "__main__":
@@ -36,3 +38,4 @@ if __name__ == "__main__":
 
     logging.info("Bot is active Now! Join @anujedits76")
     idle()
+    
