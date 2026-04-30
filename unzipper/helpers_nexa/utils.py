@@ -50,7 +50,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
                 estimated_total_time if estimated_total_time != '' else "0 s"
             )
             try:
-                await message.edit("{}\n {} \n\n**Powered by @NexaBotsUpdates**".format(ud_type, tmp))
+                await message.edit("{}\n {} \n\n**Powered by @anujedits76**".format(ud_type, tmp))
             except:
                 pass
     else:
@@ -61,7 +61,7 @@ async def progress_for_pyrogram(current, total, ud_type, message, start):
             "unknown"
         )
         try:
-            await message.edit("{}\n {} \n\n**Powered by @NexaBotsUpdates**".format(ud_type, tmp))
+            await message.edit("{}\n {} \n\n**Powered by @anujedits76**".format(ud_type, tmp))
         except:
             pass
 
