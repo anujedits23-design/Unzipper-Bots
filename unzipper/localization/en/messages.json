@@ -1,28 +1,8 @@
 {
     "this_lang": "en",
 
-    "start": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-✨ Hey {first_name}, Welcome!
-
-📂 Your Ultimate Archive
-   Extractor Bot!
-
-🚀 Features:
-• Instant ZIP, RAR, 7Z, TAR
-  extraction
-• Fast & Secure processing
-• Direct URL support
-• Password Protected Archives
-
-⚠️ 18+ content is strictly
-   prohibited!
-   A single violation will lead
-   to a permanent ban.
-
-📤 Just send any archive file
-   to start!
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`\n\n**Made with ❤️ by @anujedits76"**,
-    "about": "**About Ak Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:**[Anuj Kumar] (https://t.me/anujedits76)\n✘ **Made with ❤️ by @anujedits76**",
+    "start": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n✨ Hey {first_name}, Welcome!\n\n📂 Your Ultimate Archive\n   Extractor Bot!\n\n🚀 Features:\n• Instant ZIP, RAR, 7Z, TAR\n  extraction\n• Fast & Secure processing\n• Direct URL support\n• Password Protected Archives\n\n⚠️ 18+ content is strictly\n   prohibited!\n   A single violation will lead\n   to a permanent ban.\n\n📤 Just send any archive file\n   to start!\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n❤️ Made with love by @anujedits76"
+    "about": "<b>About Ak Unzipper Bot</b>\n\n✘ <b>Version:</b> <code>{}</code>\n✘ <b>Language:</b> <a href='https://www.python.org/'>Python</a>\n✘ <b>Framework:</b> <a href='https://docs.pyrogram.org/'>Pyrogram</a>\n✘ <b>Developer:</b> <a href='https://t.me/anujedits76'>Anuj Kumar</a>\n\n❤️ <b>Made with love by @anujedits76</b>"
     
     "processing": "`Processing ⚙️...`",
     "refreshing": "`Refreshing ⏳...`",
