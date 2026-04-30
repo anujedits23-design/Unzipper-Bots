@@ -5,6 +5,7 @@ motor
 dnspython
 psutil
 aiohttp
+pykeyboard
 aiofiles
 flask
 Pillow
