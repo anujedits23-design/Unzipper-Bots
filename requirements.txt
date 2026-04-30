@@ -7,5 +7,6 @@ psutil
 pykeyboard
 aiohttp
 aiofiles
+flask
 Pillow
 git+https://github.com/Itz-fork/Gofile2.git
