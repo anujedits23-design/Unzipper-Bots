@@ -14,7 +14,7 @@ import logging
 from pyrogram import idle
 from os import makedirs, path
 from config import Config
-from server import keep_alive
+from .server import keep_alive
 
 
 if __name__ == "__main__":
