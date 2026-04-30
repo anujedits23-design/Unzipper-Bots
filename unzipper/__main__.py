@@ -15,10 +15,10 @@ from pyrogram import idle
 from os import makedirs, path
 from config import Config
 from server import keep_alive
-from pyrogram import Client
 
 
 if __name__ == "__main__":
+    keep_alive()
     logging.info(" >> Checking download location...")
     if not path.isdir(Config.DOWNLOAD_LOCATION):
         makedirs(Config.DOWNLOAD_LOCATION)
