@@ -28,8 +28,8 @@
     "ok_unban": "**Successfully unbanned that user ✅!** \n\n**User ID:** `{}`",
     "ok_wont_delete": "**Ah fine, I won't delete your files 😂!**",
     
-    "failed_main": "**Error Happend 😕!**\n\n**ERROR:** {}\n\n\n**Please report this at @Nexa_bots**",
-    "failed_extract": "**Extraction Failed 😕!**\n\n**What to do?**\n\n - `Please make sure archive isn't corrupted`\n - `Please make sure that you selected the right mode`\n - `May be Your archive format isn't supported 😔`\n\n**Please report this at @Nexa_bots**",
+    "failed_main": "**Error Happend 😕!**\n\n**ERROR:** {}\n\n\n**Please report this at @anujedits76**",
+    "failed_extract": "**Extraction Failed 😕!**\n\n**What to do?**\n\n - `Please make sure archive isn't corrupted`\n - `Please make sure that you selected the right mode`\n - `May be Your archive format isn't supported 😔`\n\n**Please report this at @anujedits76**",
     
     "no_thumb": "No thumbnails found. Please set one using `/set_thumb` command!",
     "no_userid": "`Give a user id!`",
