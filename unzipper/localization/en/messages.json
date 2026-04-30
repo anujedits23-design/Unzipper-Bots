@@ -1,7 +1,27 @@
 {
     "this_lang": "en",
 
-    "start": "Hi **{}**, I'm **Ak Unzipper Bot** 😇!\n\n`An open-source bot that can extract archives like zip, rar, tar etc.`\n\n**Made with ❤️ by @anujedits76**",
+    "start": "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+✨ Hey {first_name}, Welcome!
+
+📂 Your Ultimate Archive
+   Extractor Bot!
+
+🚀 Features:
+• Instant ZIP, RAR, 7Z, TAR
+  extraction
+• Fast & Secure processing
+• Direct URL support
+• Password Protected Archives
+
+⚠️ 18+ content is strictly
+   prohibited!
+   A single violation will lead
+   to a permanent ban.
+
+📤 Just send any archive file
+   to start!
+┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛`\n\n**Made with ❤️ by @anujedits76"**,
     "about": "**About Ak Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:**[Anuj Kumar] (https://t.me/anujedits76)\n✘ **Made with ❤️ by @anujedits76**",
     
     "processing": "`Processing ⚙️...`",
