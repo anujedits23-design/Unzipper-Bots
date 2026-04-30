@@ -1,15 +1,15 @@
 FROM archlinux:latest
 
-RUN pacman -Syyu --noconfirm
-RUN pacman -S --noconfirm python python-pip zstd p7zip gcc git
+RUN pacman -Syyu --noconfirm && \
+    pacman -S --noconfirm python python-pip zstd p7zip gcc git && \
+    pacman -Scc --noconfirm
 
-RUN mkdir /app/
-WORKDIR /app/
-
+WORKDIR /app
 COPY . /app/
 
-# safer install
-RUN pip install --no-cache-dir -U setuptools wheel
-RUN pip install --no-cache-dir -r requirements.txt
+# 🔥 IMPORTANT FIX
+RUN python -m ensurepip --upgrade
+RUN python -m pip install --break-system-packages --no-cache-dir -U setuptools wheel
+RUN python -m pip install --break-system-packages --no-cache-dir -r requirements.txt
 
 CMD ["bash", "start.sh"]
