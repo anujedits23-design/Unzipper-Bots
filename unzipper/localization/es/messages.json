@@ -1,8 +1,8 @@
 {
     "this_lang": "es",
 
-    "start": "Hola **{}**, Soy **Nexa Unzipper Bot** 😇!\n\n`Un Bot de fuente abierta que puede extraer archivos como: zip, rar, tar etc.`\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
-    "about": "**Acerca de Nexa Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** [Itz-fork](https://github.com/Itz-fork)\n✘ **Fuente de código:** [Itz-fork/Unzipper-Bot](https://github.com/Itz-fork/Unzipper-Bot)\n\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
+    "start": "Hola **{}**, Soy **Ak Unzipper Bot** 😇!\n\n`Un Bot de fuente abierta que puede extraer archivos como: zip, rar, tar etc.`\n\n**Hecho con ❤️ por @anujedits76**",
+    "about": "**Acerca de Ak Unzipper Bot,**\n\n✘ **Versión:** `{}`\n✘ **Lenguaje:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Desarrollador:** (https://t.me/anujedits76)\n✘ **Hecho con ❤️ por @anujedits76**",
     
     "processing": "`Procesando ⚙️...`",
     "refreshing": "`Refrescando ⏳...`",
@@ -15,21 +15,21 @@
     "help_upmode": "**¿Cómo cambiar el modo de envío? 🤔**\n\n**1.** `Envía el comando` **/mode** `.`\n**2.** `Selecciona la opción apropiada.`",
     "help_backup": "**¿Cómo hacer una copia de seguridad a tus archivos? 🤔**\n\nEl servidor del Bot resetea cada 24 horas (heroku). Lo que significa que tus archivos serán completamente eliminados del servidor.\nAntes de que eso pase, puedes haber una copia de seguridad en gofile.io\n\n**1.** `Envía el comando` **/backup** `al bot.`\n**2.** `Selecciona la opción apropiada.`",
     "help_thumb": "**¿Cómo cambiar la miniatura? 🤔**\n\nPor defecto, los videos usan una miniatura generada por `ffmpeg` y los archivos no tienen una.\nSi tu quieres establecer tu propia miniatura, puedes hacerlo con los siguientes comandos 👇,\n\n\n    • **/set_thumb** - Establecer miniatura\n\n    • **/get_thumb** - Obtener miniatura actual\n\n    • **/del_thumb** - Para borrar la miniatura existente",
-    "help_lang": "**¿Cómo cambiar de idioma? 🤔**\n\nEl idioma por defecto es el Inglés. Sin embargo, puedes cambiarlo a tu idioma, si está disponible. Para cambiar el idioma actual, envía el comando **/set_lang**.\n\n¿Quieres ayudar con las traducciones? Por favor [lee esto](https://github.com/Itz-fork/Unzipper-Bot/tree/main/unzipper/localization#contribute-to-the-translation)",
+    "help_lang": "**¿Cómo cambiar de idioma? 🤔**\n\nEl idioma por defecto es el Inglés. Sin embargo, puedes cambiarlo a tu idioma, si está disponible. Para cambiar el idioma actual, envía el comando **/set_lang**.\n\n¿Quieres ayudar con las traducciones? Por favor [lee estos]",
     
     "ok_backup": "**¡Copia de seguridad exitosa ✅!** \n\n**Enlace 🔗:** {}",
     "ok_download": "**¡Descarga exitosa ✅!**\n\n**📂 Nombre del archivo:** `{}`\n**⬇️ Descargado en:** `{}`",
-    "ok_extract": "**¡Extraído exitosamente ✅!**\n\n**🕐 Extraído en:** `{}`\n\n\n**Hecho con ❤️ por @NexaBotsUpdates**",
+    "ok_extract": "**¡Extraído exitosamente ✅!**\n\n**🕐 Extraído en:** `{}`\n\n\n**Hecho con ❤️ por @anujedits76**",
     "ok_upload": "**¡Subido exitosamente✅!**\n\n**📂 Nombre del archivo:** `{}`\n**⬆️ Subido en:** `{}`",
-    "ok_upload_basic": "**¡Subido exitosamente ✅!** \n\n *Únete a @NexaBotsUpdates ❤️**",
+    "ok_upload_basic": "**¡Subido exitosamente ✅!** \n\n *Únete a @anujedits76 ❤️**",
     "ok_saving_thumb": "**¡Miniatura guardada exitosamente ✅!**",
     "ok_deleting_thumb": "**Miniatura borrada exitosamente ✅!**",
     "ok_ban": "**Usuario baneado exitosamente ✅!** \n\n**ID del usuario:** `{}`",
     "ok_unban": "**Usuario desbaneado exitosamente ✅!** \n\n**ID del usuario:** `{}`",
     "ok_wont_delete": "**Oh genial, No borraré tus archivos 😂!**",
     
-    "failed_main": "**Ocurrió un error 😕!**\n\n**ERROR:** {}\n\n\n**Por favor repórtalo a @Nexa_bots**",
-    "failed_extract": "**Extracción fallida 😕!**\n\n**Que hacer?**\n\n - `Por favor, asegúrate de que el archivo no esté corrupto`\n - `Por favor, asegúrate de que seleccionaste el modo correcto`\n - `Pueda que tu archivo no sea soportado😔`\n\n**Por favor repórtalo a @Nexa_bots**",
+    "failed_main": "**Ocurrió un error 😕!**\n\n**ERROR:** {}\n\n\n**Por favor repórtalo a @anujedits76**",
+    "failed_extract": "**Extracción fallida 😕!**\n\n**Que hacer?**\n\n - `Por favor, asegúrate de que el archivo no esté corrupto`\n - `Por favor, asegúrate de que seleccionaste el modo correcto`\n - `Pueda que tu archivo no sea soportado😔`\n\n**Por favor repórtalo a @anujedits76**",
     
     "no_thumb": "¡Miniatura no encontrada. Establece una con el comando `/set_thumb`!",
     "no_userid": "`¡Pon una ID de usuario!`",
