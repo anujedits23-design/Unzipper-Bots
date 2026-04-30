@@ -1,17 +1,7 @@
 {
     "this_lang": "en",
 
-    "start": "Hi **{}**, I'm **Ak Unzipper Bot** 😇!\n\n`📂 Yᴏᴜʀ ᴜʟᴛɪᴍᴀᴛᴇ Aʀᴄʜɪᴠᴇ Exᴛʀᴀᴄᴛᴏʀ Bᴏᴛ!
-
-🚀 Fᴇᴀᴛᴜʀᴇꜱ:
-• Iɴꜱᴛᴀɴᴛ ZIP, RAR, 7Z, TAR ᴇxᴛʀᴀᴄᴛɪᴏɴ
-• Fᴀꜱᴛ & Sᴇᴄᴜʀᴇ ᴘʀᴏᴄᴇꜱꜱɪɴɢ
-• Dɪʀᴇᴄᴛ URL Sᴜᴘᴘᴏʀᴛ
-• Pᴀꜱꜱᴡᴏʀᴅ Pʀᴏᴛᴇᴄᴛᴇᴅ Aʀᴄʜɪᴠᴇꜱ
-
-⚠️ 18+ ᴄᴏɴᴛᴇɴᴛ ɪꜱ ꜱᴛʀɪᴄᴛʟʏ ᴘʀᴏʜɪʙɪᴛᴇᴅ! A ꜱɪɴɢʟᴇ ᴠɪᴏʟᴀᴛɪᴏɴ ᴡɪʟʟ ʟᴇᴀᴅ ᴛᴏ ᴀ ᴘᴇʀᴍᴀɴᴇɴᴛ ʙᴀɴ.
-
-📤 Jᴜꜱᴛ ꜱᴇɴᴅ ᴀɴʏ ᴀʀᴄʜɪᴠᴇ ꜰɪʟᴇ ᴛᴏ ꜱᴛᴀʀᴛ!`\n\n**Made with ❤️ by @Anujedits76**",
+    "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓\n✨ Hey {} , Welcome!\n\n📂 **Ak Unzipper Bot** 😇\n\n🚀 **Features:**\n• Instant ZIP, RAR, 7Z, TAR extraction\n• Fast & Secure processing\n• Direct URL support\n• Password Protected Archives\n\n⚠️ **18+ content is strictly prohibited!**\nA single violation will lead to a permanent ban.\n\n📤 Just send any archive file to start!\n┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛\n\n❤️ **Made with love by @anujedits76**",
     "about": "**About Ak Unzipper Bot,**\n\n✘ **Version:** `{}`\n✘ **Language:** [Python](https://www.python.org/)\n✘ **Framework:** [Pyrogram](https://docs.pyrogram.org/)\n✘ **Developer:** [Anuj Kumar](https://t.me/anujedits76)\n✘ **Made with ❤️ by @anujedits76**",
     
     "processing": "`Processing ⚙️...`",
