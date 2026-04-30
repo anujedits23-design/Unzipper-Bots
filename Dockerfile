@@ -3,9 +3,6 @@ FROM archlinux:latest
 RUN pacman -Syyu --noconfirm
 RUN pacman -S --noconfirm python python-pip zstd p7zip gcc git
 
-# ❌ pip upgrade hata diya
-# RUN pip3 install -U pip
-
 RUN mkdir /app/
 WORKDIR /app/
 
