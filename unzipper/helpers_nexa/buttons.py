@@ -49,7 +49,7 @@ class Unzipper_Buttons:
         InlineKeyboardButton(
             STRINGS["buttons"]["help"], callback_data="helpcallback"),
         InlineKeyboardButton(
-            STRINGS["buttons"]["about"], callback_data="aboutcallback"),
+            STRINGS["buttons"]["about"], callback_data="aboutcallback")
     ]])
 
     HELP = InlineKeyboardMarkup([
