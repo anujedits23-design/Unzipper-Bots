@@ -36,6 +36,6 @@ if __name__ == "__main__":
     from .helpers_nexa.checks import check_log_channel
     check_log_channel()
 
-    logging.info("Bot is active Now! Join @anujedits76")
+    logging.info("Bot is active Now! Join @log_ak_bot")
     idle()
     
