@@ -1,10 +1,10 @@
 services:
   - type: web
     name: unzipper-bot
-    runtime: python
+    runtime: python3
     plan: free
-    buildCommand: ""
-    startCommand: python3 -m unzipper
+    buildCommand: "pip3 install -U -r requirements.txt"
+    startCommand: "python3 -m unzipper"
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.9
