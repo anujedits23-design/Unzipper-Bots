@@ -4,7 +4,7 @@ services:
     runtime: python
     plan: free
     buildCommand: ""
-    startCommand: python3 unzipper/__main__.py
+    startCommand: python3 -m unzipper
     envVars:
       - key: PYTHON_VERSION
         value: 3.11.9
